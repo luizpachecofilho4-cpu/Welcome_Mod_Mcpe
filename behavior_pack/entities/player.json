@@ -1,0 +1,1 @@
+{\n  "format_version": "1.12.0",\n  "minecraft:entity": {\n    "description": {\n      "identifier": "minecraft:player",\n      "is_spawnable": false,\n      "is_summonable": false,\n      "is_experimental": false\n    }\n  }\n}
